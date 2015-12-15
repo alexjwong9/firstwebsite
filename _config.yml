@@ -1,2 +1,3 @@
 name: Alex Wong, Engineerd
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
